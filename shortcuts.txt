@@ -1,0 +1,4 @@
+alias dd="cd Desktop"
+alias gs="git status -s"
+alias gl="git log --oneline"
+alias ga="git add ."
